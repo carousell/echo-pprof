@@ -1,7 +1,8 @@
 package echopprof
 
 import (
-	"github.com/labstack/echo"
+	// "github.com/labstack/echo"
+	"github.com/labstack/echo/v4"
 	"net/http"
 	"net/http/pprof"
 	"sync"
